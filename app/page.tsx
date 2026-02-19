@@ -63,7 +63,7 @@ export default function Page() {
 
       <div style={styles.chatCard}>
         <div style={styles.header}>
-          <h1 style={styles.title}>AI Assistant</h1>
+          <h1 style={styles.title}>Gyanova</h1>
           <p style={styles.subtitle}>Your personal intelligent companion</p>
         </div>
 
